@@ -6,4 +6,4 @@
 
 # TASK
 1. I installed and configured Ansible client to act as a jump Server/Bastion Host
-2. I created a simple Ansible playbook to automate servers configuration. And my final Ansible Architecture looks like this [reference image](/Pictures/pic28.png)
+2. I created a simple Ansible playbook to automate servers configuration. And my final Ansible Architecture looks like this ![reference image](/Pictures/pic28.png)
